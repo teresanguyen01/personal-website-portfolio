@@ -418,6 +418,16 @@ body {
   opacity: 0.8;
 }
 
+.description .role {
+  color: #9f7aea; /* purple */
+  font-weight: 700;
+}
+
+.description .degree {
+  color: #ffffff;
+  font-weight: 700;
+}
+
 /* Awards */
 .awards h3 {
   color: #60a5fa;
